@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3797465d.css",
+    "main.js": "/static/js/main.61d0e8c5.js",
+    "static/js/453.7d7880be.chunk.js": "/static/js/453.7d7880be.chunk.js",
+    "static/media/popcornlogo.png": "/static/media/popcornlogo.afecd4a596e069b2da4e.png",
+    "static/media/hourglass.png": "/static/media/hourglass.65acc5f26745928bad38.png",
+    "static/media/loaderbc.gif": "/static/media/loaderbc.dec667e39e6e9c53a198.gif",
+    "static/media/bright.png": "/static/media/bright.37555c3e8cfb4b6c35e4.png",
+    "static/media/star2.png": "/static/media/star2.89ef866b4e69fea260c9.png",
+    "static/media/calenderbc.png": "/static/media/calenderbc.eec99723f5cb443aa299.png",
+    "static/media/hash-removebg-preview.png": "/static/media/hash-removebg-preview.42d31eb302661b16319a.png",
+    "index.html": "/index.html",
+    "main.3797465d.css.map": "/static/css/main.3797465d.css.map",
+    "main.61d0e8c5.js.map": "/static/js/main.61d0e8c5.js.map",
+    "453.7d7880be.chunk.js.map": "/static/js/453.7d7880be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3797465d.css",
+    "static/js/main.61d0e8c5.js"
+  ]
+}
